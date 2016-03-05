@@ -144,7 +144,7 @@ NS_ASSUME_NONNULL_END
 
 ### 参考资料
 * https://github.com/ipader/SwiftGuide/tree/master/Apple%20Watch
-  http://www.kristinathai.com/watchos-2-how-to-communicate-between-devices-using-watch-connectivity/
+* http://www.kristinathai.com/watchos-2-how-to-communicate-between-devices-using-watch-connectivity/
 * http://onevcat.com/2015/08/watchos2/
 * https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/WatchKitProgrammingGuide/SharingData.html#//apple_ref/doc/uid/TP40014969-CH29-SW1
 
