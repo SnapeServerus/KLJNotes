@@ -26,7 +26,7 @@ OC允许向nil发送消息，而NSNull本神是一个NSObject，它只有一个�
 - (id)verifiedObjectForKey:(id)aKey
 {
     if ([self objectForKey:aKey] && ![[self objectForKey:aKey] isKindOfClass:[NSNull class]]) {
-    return [self objectForKey:aKey];
+    	return [self objectForKey:aKey];
     }
     return nil;
 }
